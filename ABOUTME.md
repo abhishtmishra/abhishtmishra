@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @abhishtmishra !
+- 👀 I’m interested in programming and development.
+- 🌱 I’m currently learning python and C#.
+- 💞️ I’m looking to collaborate on projects involving C/C++/HTML/CSS/Python
+- 📫 How to reach me? Email: abhisht159@gmail.com
